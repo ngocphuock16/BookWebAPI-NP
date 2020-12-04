@@ -1,0 +1,16 @@
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.BAL\bin\Debug\netstandard2.0\BOOKMANAGEMENT.BAL.deps.json
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.BAL\bin\Debug\netstandard2.0\BOOKMANAGEMENT.BAL.dll
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.BAL\bin\Debug\netstandard2.0\BOOKMANAGEMENT.BAL.pdb
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.BAL\bin\Debug\netstandard2.0\BOOKMANAGEMENT.BAL.Interface.dll
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.BAL\bin\Debug\netstandard2.0\BOOKMANAGEMENT.DAL.Interface.dll
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.BAL\bin\Debug\netstandard2.0\BOOKMANAGEMENT.Domain.dll
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.BAL\bin\Debug\netstandard2.0\BOOKMANAGEMENT.BAL.Interface.pdb
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.BAL\bin\Debug\netstandard2.0\BOOKMANAGEMENT.DAL.Interface.pdb
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.BAL\bin\Debug\netstandard2.0\BOOKMANAGEMENT.Domain.pdb
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.BAL\obj\Debug\netstandard2.0\BOOKMANAGEMENT.BAL.csprojAssemblyReference.cache
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.BAL\obj\Debug\netstandard2.0\BOOKMANAGEMENT.BAL.AssemblyInfoInputs.cache
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.BAL\obj\Debug\netstandard2.0\BOOKMANAGEMENT.BAL.AssemblyInfo.cs
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.BAL\obj\Debug\netstandard2.0\BOOKMANAGEMENT.BAL.csproj.CoreCompileInputs.cache
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.BAL\obj\Debug\netstandard2.0\BOOKMANAGEMENT.BAL.csproj.CopyComplete
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.BAL\obj\Debug\netstandard2.0\BOOKMANAGEMENT.BAL.dll
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.BAL\obj\Debug\netstandard2.0\BOOKMANAGEMENT.BAL.pdb

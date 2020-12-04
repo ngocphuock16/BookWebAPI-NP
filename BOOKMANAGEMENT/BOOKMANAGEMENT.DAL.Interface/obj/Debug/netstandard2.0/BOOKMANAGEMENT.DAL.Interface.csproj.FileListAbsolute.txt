@@ -1,0 +1,12 @@
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.DAL.Interface\bin\Debug\netstandard2.0\BOOKMANAGEMENT.DAL.Interface.deps.json
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.DAL.Interface\bin\Debug\netstandard2.0\BOOKMANAGEMENT.DAL.Interface.dll
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.DAL.Interface\bin\Debug\netstandard2.0\BOOKMANAGEMENT.DAL.Interface.pdb
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.DAL.Interface\bin\Debug\netstandard2.0\BOOKMANAGEMENT.Domain.dll
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.DAL.Interface\bin\Debug\netstandard2.0\BOOKMANAGEMENT.Domain.pdb
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.DAL.Interface\obj\Debug\netstandard2.0\BOOKMANAGEMENT.DAL.Interface.csprojAssemblyReference.cache
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.DAL.Interface\obj\Debug\netstandard2.0\BOOKMANAGEMENT.DAL.Interface.AssemblyInfoInputs.cache
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.DAL.Interface\obj\Debug\netstandard2.0\BOOKMANAGEMENT.DAL.Interface.AssemblyInfo.cs
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.DAL.Interface\obj\Debug\netstandard2.0\BOOKMANAGEMENT.DAL.Interface.csproj.CoreCompileInputs.cache
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.DAL.Interface\obj\Debug\netstandard2.0\BOOKMANAGEMENT.DAL.Interface.csproj.CopyComplete
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.DAL.Interface\obj\Debug\netstandard2.0\BOOKMANAGEMENT.DAL.Interface.dll
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.DAL.Interface\obj\Debug\netstandard2.0\BOOKMANAGEMENT.DAL.Interface.pdb

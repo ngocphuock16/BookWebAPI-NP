@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kVKT7gKq09ky8CMZNK/t9pFVgjD4QxTGXspxUyuXbZkvL/mlc2g+WvEZ4Nsx+TuCUYLu3durZ6J1Bhhm8GgpIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SONY\\source\\repos\\BOOKMANAGEMENT\\BOOKMANAGEMENT.BAL.Interface\\BOOKMANAGEMENT.BAL.Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SONY\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\SONY\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

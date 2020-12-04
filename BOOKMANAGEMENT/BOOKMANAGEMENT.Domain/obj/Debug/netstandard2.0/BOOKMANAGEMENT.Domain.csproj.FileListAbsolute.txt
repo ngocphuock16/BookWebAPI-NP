@@ -1,0 +1,8 @@
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.Domain\bin\Debug\netstandard2.0\BOOKMANAGEMENT.Domain.deps.json
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.Domain\bin\Debug\netstandard2.0\BOOKMANAGEMENT.Domain.dll
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.Domain\bin\Debug\netstandard2.0\BOOKMANAGEMENT.Domain.pdb
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.Domain\obj\Debug\netstandard2.0\BOOKMANAGEMENT.Domain.AssemblyInfoInputs.cache
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.Domain\obj\Debug\netstandard2.0\BOOKMANAGEMENT.Domain.AssemblyInfo.cs
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.Domain\obj\Debug\netstandard2.0\BOOKMANAGEMENT.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.Domain\obj\Debug\netstandard2.0\BOOKMANAGEMENT.Domain.dll
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.Domain\obj\Debug\netstandard2.0\BOOKMANAGEMENT.Domain.pdb

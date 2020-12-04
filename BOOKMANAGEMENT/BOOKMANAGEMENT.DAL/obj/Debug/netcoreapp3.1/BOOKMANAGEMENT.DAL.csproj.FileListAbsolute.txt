@@ -1,0 +1,14 @@
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.DAL\bin\Debug\netcoreapp3.1\BOOKMANAGEMENT.DAL.Interface.dll
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.DAL\bin\Debug\netcoreapp3.1\BOOKMANAGEMENT.Domain.dll
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.DAL\obj\Debug\netcoreapp3.1\BOOKMANAGEMENT.DAL.csprojAssemblyReference.cache
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.DAL\obj\Debug\netcoreapp3.1\BOOKMANAGEMENT.DAL.AssemblyInfoInputs.cache
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.DAL\obj\Debug\netcoreapp3.1\BOOKMANAGEMENT.DAL.AssemblyInfo.cs
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.DAL\bin\Debug\netcoreapp3.1\BOOKMANAGEMENT.DAL.deps.json
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.DAL\bin\Debug\netcoreapp3.1\BOOKMANAGEMENT.DAL.dll
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.DAL\bin\Debug\netcoreapp3.1\BOOKMANAGEMENT.DAL.pdb
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.DAL\bin\Debug\netcoreapp3.1\BOOKMANAGEMENT.DAL.Interface.pdb
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.DAL\bin\Debug\netcoreapp3.1\BOOKMANAGEMENT.Domain.pdb
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.DAL\obj\Debug\netcoreapp3.1\BOOKMANAGEMENT.DAL.csproj.CoreCompileInputs.cache
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.DAL\obj\Debug\netcoreapp3.1\BOOKMANAGEMENT.DAL.csproj.CopyComplete
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.DAL\obj\Debug\netcoreapp3.1\BOOKMANAGEMENT.DAL.dll
+C:\Users\SONY\source\repos\BOOKMANAGEMENT\BOOKMANAGEMENT.DAL\obj\Debug\netcoreapp3.1\BOOKMANAGEMENT.DAL.pdb
